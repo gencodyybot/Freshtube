@@ -9,3 +9,4 @@ Please note that all contributions must adhere to the MIT License, which allows 
 
 You can customize this description to better fit your project's goals and requirements.
 
+Join our Discord : https://discord.gg/fgMVCxdUFt
