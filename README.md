@@ -8,3 +8,4 @@ We're looking for contributors who are passionate about creating user-friendly m
 Please note that all contributions must adhere to the MIT License, which allows anyone to use the code for their own projects as long as they give credit and include the license in their code."
 
 You can customize this description to better fit your project's goals and requirements.
+
